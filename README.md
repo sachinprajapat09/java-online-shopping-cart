@@ -13,7 +13,18 @@ A simple console-based E-Commerce application in Java using OOP concepts like in
 1. Clone the repository:
    ```bash
    git clone https://github.com/sachinprajapat09/java-online-shopping-cart.git
- 2  
- ```bash
+   
+2. Navigate to the project directory:
+   ```bash
   cd java-online-shopping-cart/OnlineShoppingCard
+
+3. Compile the Java source files:
+   ```bash
+   javac com/shoppingcard/*.java
+   
+4. Run the application:
+   ```bash
+   java com.shoppingcard.MainApp
+
+
 
