@@ -16,7 +16,7 @@ A simple console-based E-Commerce application in Java using OOP concepts like in
    
 2. Navigate to the project directory:
    ```bash
-  cd java-online-shopping-cart/OnlineShoppingCard
+    cd java-online-shopping-cart/OnlineShoppingCard
 
 3. Compile the Java source files:
    ```bash
