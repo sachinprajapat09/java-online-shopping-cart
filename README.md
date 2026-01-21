@@ -2,6 +2,48 @@
 A simple console-based E-Commerce application in Java using OOP concepts like inheritance, polymorphism, and collections. Users can view products, add items to cart, and checkout.
 
 
+###  Features
+
+Add electronic and clothing products
+
+Store products in a shopping cart
+
+Display all cart items
+
+Calculate total price of cart
+
+Demonstrates inheritance and polymorphism
+
+### Technologies & Concepts Used
+
+Core Java
+
+Object-Oriented Programming (OOP)
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
+
+Constructors
+
+Method Overriding
+
+Java Collections Framework
+
+HashMap
+
+Map
+
+Package Structure
+
+for-each loops
+
+
+
+
+
 ## How to Run This Project
 
 ### Prerequisites
